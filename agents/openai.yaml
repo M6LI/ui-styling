@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aim Research UI"
+  short_description: "Offline Aim styling for experiments and RFQ analysis"
+  default_prompt: "Use $ui-styling to build an Aim-style experiment comparison and RFQ analysis interface from the bundled offline components."

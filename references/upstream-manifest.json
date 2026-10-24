@@ -1,0 +1,68 @@
+{
+  "project": "https://github.com/aimhubio/aim",
+  "tag": "v3.29.1",
+  "commit": "753f4b18437b8288e1c6f7c894c14a33cba9e7d0",
+  "archive_sha256": "2fb3589c6024f566818a577564827d1a66b271cd96c139671da91b865221405d",
+  "files": [
+    {
+      "path": "aim/web/ui/src/styles/abstracts/_variables.scss",
+      "sha256": "ea9bdf619c048baa28008012520b668fbc916084da6b5e335cee77f0b528b6e8"
+    },
+    {
+      "path": "aim/web/ui/src/styles/base/_reset.scss",
+      "sha256": "d2c7267cd13f741b23f662ed469a43b61f4f0dd91a95bc768cdebcdd4e13c6a6"
+    },
+    {
+      "path": "aim/web/ui/src/components/Theme/Theme.tsx",
+      "sha256": "3f27338e9dd5c50efbffdb0273ba5b8d980ac07853eb183c248632d392f46942"
+    },
+    {
+      "path": "aim/web/ui/src/config/colors/colors.ts",
+      "sha256": "85daba16edab0b4c9830be2fd43bb057902a393ffade82a88d7a42624e5224bb"
+    },
+    {
+      "path": "aim/web/ui/src/config/table/tableConfigs.ts",
+      "sha256": "76354b81b7b02341fd56057bbe6f8dba37ae1f1ce8406b34a717d68c45ad497b"
+    },
+    {
+      "path": "aim/web/ui/src/components/SideBar/Sidebar.scss",
+      "sha256": "94b2c7a8bb74383697704a21cf4d988b5a8613ebd3e4bab3613e1414010e78ed"
+    },
+    {
+      "path": "aim/web/ui/src/components/AppBar/AppBar.scss",
+      "sha256": "16cfa64df8d080f91afd94bed1fd9b33c40fbe92a83baf95a9f9d959a13b0206"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit/Button/Button.tsx",
+      "sha256": "3b4feeb2e3f12f5cb242fe5315ef05b7879e12acab30f2967ab971b05a2a055d"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit/Button/Button.scss",
+      "sha256": "e6b987dd46069178f1ada4b2455b19da8caedb8a246a73956768b840470685a6"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit/Input/Input.scss",
+      "sha256": "a5817a4ab7bca416e7bf8a6a156cd705786bd7ea5e384a87bb942ed41cad9840"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit/Badge/Badge.scss",
+      "sha256": "6f95c9615bb25288feb85ed7bfa6997f4d5a29457cc6d1a11b9bbf024ac7fb71"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit/Text/Text.scss",
+      "sha256": "f3ec0664879050ad1c40206c022cc25656acdd8dbebf0b4d503e22138b2c7586"
+    },
+    {
+      "path": "aim/web/ui/src/components/LineChart/LineChart.scss",
+      "sha256": "08db2ffe22bb469ee632f8aa35ca52224f10e408fcdaeadf1f32452ec34dcf8b"
+    },
+    {
+      "path": "aim/web/ui/src/components/Table/BaseTable.scss",
+      "sha256": "06830b825cb6a338256ad59f5e3104ad0db8f6e5ce15615ea02c62de08dba810"
+    },
+    {
+      "path": "aim/web/ui/src/components/kit_v2/Tabs/Tabs.style.ts",
+      "sha256": "9e82c66d6e05c67641d703c271dfb507035701526731a9e8cb18141c88f452ce"
+    }
+  ]
+}

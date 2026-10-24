@@ -1,0 +1,7 @@
+{
+  "sha256": "d2fd94773588433c402981d9c1a63adaae322eb471203efb314522e5ece70794",
+  "entries": 45,
+  "size_bytes": 11352220,
+  "runtime": "Node.js >=18 and npm required; packages are portable JS/WASM, no native addon build.",
+  "lockfile": "../template/package-lock.json"
+}

@@ -1,0 +1,11 @@
+{
+  "browser": "138.0.7204.0",
+  "viewports": [
+    "1440x960",
+    "1920x1080",
+    "900x800"
+  ],
+  "externalRequests": [],
+  "pageErrors": [],
+  "status": "passed"
+}

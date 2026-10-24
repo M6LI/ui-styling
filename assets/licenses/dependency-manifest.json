@@ -1,0 +1,364 @@
+[
+  {
+    "name": "@babel/runtime",
+    "version": "7.29.10",
+    "license": "MIT",
+    "files": [
+      "dependencies/@babel__runtime@7.29.10/LICENSE"
+    ]
+  },
+  {
+    "name": "@emotion/hash",
+    "version": "0.8.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/@emotion__hash@0.8.0/LICENSE"
+    ]
+  },
+  {
+    "name": "@material-ui/core",
+    "version": "4.12.4",
+    "license": "MIT",
+    "files": [
+      "dependencies/@material-ui__core@4.12.4/LICENSE"
+    ]
+  },
+  {
+    "name": "@material-ui/styles",
+    "version": "4.11.5",
+    "license": "MIT",
+    "files": [
+      "dependencies/@material-ui__styles@4.11.5/LICENSE"
+    ]
+  },
+  {
+    "name": "@material-ui/system",
+    "version": "4.12.2",
+    "license": "MIT",
+    "files": [
+      "dependencies/@material-ui__system@4.12.2/LICENSE"
+    ]
+  },
+  {
+    "name": "@material-ui/types",
+    "version": "5.1.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/@material-ui__types@5.1.0/LICENSE"
+    ]
+  },
+  {
+    "name": "@material-ui/utils",
+    "version": "4.11.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/@material-ui__utils@4.11.3/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/prop-types",
+    "version": "15.7.15",
+    "license": "MIT",
+    "files": [
+      "dependencies/@types__prop-types@15.7.15/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react",
+    "version": "17.0.87",
+    "license": "MIT",
+    "files": [
+      "dependencies/@types__react@17.0.87/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react-dom",
+    "version": "17.0.26",
+    "license": "MIT",
+    "files": [
+      "dependencies/@types__react-dom@17.0.26/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react-transition-group",
+    "version": "4.4.12",
+    "license": "MIT",
+    "files": [
+      "dependencies/@types__react-transition-group@4.4.12/LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/csstype@3.2.3/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/scheduler",
+    "version": "0.16.8",
+    "license": "MIT",
+    "files": [
+      "dependencies/@types__scheduler@0.16.8/LICENSE"
+    ]
+  },
+  {
+    "name": "clsx",
+    "version": "1.2.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/clsx@1.2.1/license"
+    ]
+  },
+  {
+    "name": "css-vendor",
+    "version": "2.0.8",
+    "license": "MIT",
+    "files": [
+      "dependencies/css-vendor@2.0.8/LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "2.6.21",
+    "license": "MIT",
+    "files": [
+      "dependencies/csstype@2.6.21/LICENSE"
+    ]
+  },
+  {
+    "name": "dom-helpers",
+    "version": "5.2.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/dom-helpers@5.2.1/LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/csstype@3.2.3/LICENSE"
+    ]
+  },
+  {
+    "name": "esbuild-wasm",
+    "version": "0.25.5",
+    "license": "MIT",
+    "files": [
+      "dependencies/esbuild-wasm@0.25.5/LICENSE.md"
+    ]
+  },
+  {
+    "name": "hoist-non-react-statics",
+    "version": "3.3.2",
+    "license": "BSD-3-Clause",
+    "files": [
+      "dependencies/hoist-non-react-statics@3.3.2/LICENSE.md"
+    ]
+  },
+  {
+    "name": "react-is",
+    "version": "16.13.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/react-is@16.13.1/LICENSE"
+    ]
+  },
+  {
+    "name": "hyphenate-style-name",
+    "version": "1.1.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "dependencies/hyphenate-style-name@1.1.0/LICENSE"
+    ]
+  },
+  {
+    "name": "is-in-browser",
+    "version": "1.1.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/is-in-browser@1.1.3/LICENSE",
+      "dependencies/is-in-browser@1.1.3/index.js"
+    ]
+  },
+  {
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/js-tokens@4.0.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-camel-case",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-camel-case@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-default-unit",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-default-unit@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-global",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-global@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-nested",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-nested@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-props-sort",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-props-sort@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-rule-value-function",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-rule-value-function@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "jss-plugin-vendor-prefixer",
+    "version": "10.10.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/jss-plugin-vendor-prefixer@10.10.0/LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/csstype@3.2.3/LICENSE"
+    ]
+  },
+  {
+    "name": "loose-envify",
+    "version": "1.4.0",
+    "license": "MIT",
+    "files": [
+      "dependencies/loose-envify@1.4.0/LICENSE"
+    ]
+  },
+  {
+    "name": "object-assign",
+    "version": "4.1.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/object-assign@4.1.1/license"
+    ]
+  },
+  {
+    "name": "popper.js",
+    "version": "1.16.1-lts",
+    "license": "MIT",
+    "files": [
+      "dependencies/popper.js@1.16.1-lts/popper.js"
+    ]
+  },
+  {
+    "name": "prop-types",
+    "version": "15.8.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/prop-types@15.8.1/LICENSE"
+    ]
+  },
+  {
+    "name": "react-is",
+    "version": "16.13.1",
+    "license": "MIT",
+    "files": [
+      "dependencies/react-is@16.13.1/LICENSE"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "17.0.2",
+    "license": "MIT",
+    "files": [
+      "dependencies/react@17.0.2/LICENSE"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "17.0.2",
+    "license": "MIT",
+    "files": [
+      "dependencies/react-dom@17.0.2/LICENSE"
+    ]
+  },
+  {
+    "name": "react-is",
+    "version": "17.0.2",
+    "license": "MIT",
+    "files": [
+      "dependencies/react-is@17.0.2/LICENSE"
+    ]
+  },
+  {
+    "name": "react-transition-group",
+    "version": "4.4.5",
+    "license": "BSD-3-Clause",
+    "files": [
+      "dependencies/react-transition-group@4.4.5/LICENSE"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.20.2",
+    "license": "MIT",
+    "files": [
+      "dependencies/scheduler@0.20.2/LICENSE"
+    ]
+  },
+  {
+    "name": "tiny-warning",
+    "version": "1.0.3",
+    "license": "MIT",
+    "files": [
+      "dependencies/tiny-warning@1.0.3/LICENSE"
+    ]
+  },
+  {
+    "name": "typescript",
+    "version": "5.8.3",
+    "license": "Apache-2.0",
+    "files": [
+      "dependencies/typescript@5.8.3/LICENSE.txt",
+      "dependencies/typescript@5.8.3/ThirdPartyNoticeText.txt"
+    ]
+  }
+]

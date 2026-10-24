@@ -1,0 +1,8 @@
+**/node_modules/
+**/.test-build/
+**/dist/
+**/__pycache__/
+**/.offline-npm-cache/
+.DS_Store
+assets/vendor/npm-cache/
+assets/template/licenses/

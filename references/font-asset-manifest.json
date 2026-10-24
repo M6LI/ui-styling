@@ -1,0 +1,52 @@
+[
+  {
+    "path": "assets/template/public/fonts/icomoon/fonts/icomoon.eot",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/fonts/icomoon.eot",
+    "sha256": "4d81dfdb9c925bbc92d5056372724af2374384ae799c6ac5a723470541d50a85"
+  },
+  {
+    "path": "assets/template/public/fonts/icomoon/fonts/icomoon.svg",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/fonts/icomoon.svg",
+    "sha256": "5622f1d2458e5ec545d1dc09f691ce4dec36474011cafe4c5a0a90d0995c4091"
+  },
+  {
+    "path": "assets/template/public/fonts/icomoon/fonts/icomoon.ttf",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/fonts/icomoon.ttf",
+    "sha256": "3df9b52d610c24910de2e4c72e70982b7b07d62051d1d1fd430894ccce2e7f77"
+  },
+  {
+    "path": "assets/template/public/fonts/icomoon/fonts/icomoon.woff",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/fonts/icomoon.woff",
+    "sha256": "b8db81bd0ab6908c562433827c3051833b33ff17d80907cf233a037182fec70c"
+  },
+  {
+    "path": "assets/template/public/fonts/icomoon/icomoonIcons.css",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/icomoonIcons.css",
+    "sha256": "0108b5972cc4e7d5b0d88ff40c2b6bd69d307a0adb61e8716aa04ee9ec950794"
+  },
+  {
+    "path": "assets/template/public/fonts/icomoon/selection.json",
+    "upstream_path": "aim/web/ui/public/assets/icomoon/selection.json",
+    "sha256": "8a567a7b11721586913883b4fa4dd734a2ddc4f5e844da837617ad191658e281"
+  },
+  {
+    "path": "assets/template/public/fonts/inconsolata/fonts/Inconsolata.ttf",
+    "upstream_path": "aim/web/ui/public/assets/inconsolata/fonts/Inconsolata.ttf",
+    "sha256": "e7a26ce2681faeffa3c3ecfcaba3afd807a385463eaa54c69a519dd9b353ac7c"
+  },
+  {
+    "path": "assets/template/public/fonts/inconsolata/inconsolata.css",
+    "upstream_path": "aim/web/ui/public/assets/inconsolata/inconsolata.css",
+    "sha256": "fec639e90b319a3ac22c4906b9d33d1f195621aea12bf4226c9fc08fc5d70ebe"
+  },
+  {
+    "path": "assets/template/public/fonts/inter/fonts/Inter.ttf",
+    "upstream_path": "aim/web/ui/public/assets/inter/fonts/Inter.ttf",
+    "sha256": "66b463921eb49aeb981e3138f679407345ec19becec56b3236b6bdde20e975b5"
+  },
+  {
+    "path": "assets/template/public/fonts/inter/inter.css",
+    "upstream_path": "aim/web/ui/public/assets/inter/inter.css",
+    "sha256": "4ebf2c764336050255c07b9b61989d3fd3178798427b67807c3eaf61b2a66c05"
+  }
+]
